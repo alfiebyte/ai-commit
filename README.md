@@ -1,0 +1,1 @@
+install: [oolama](https://ollama.com/download)
